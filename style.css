@@ -1,0 +1,53 @@
+body{margin: 0;
+    padding: 0;
+    background-image: url(1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    line-height: 1.8;
+    
+}
+h1, hr, .link{
+    color: lightgreen;
+}
+
+.form{
+    width: 25%;
+    background-color: black;
+    text-align: center;
+    padding: 1px 20px 20px;
+    border-top: 2px solid lightgreen;
+    margin: 100px auto;
+   
+}
+.user-data{
+    border: none;
+    box-sizing: border-box;
+    margin: 10px auto;
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    background-color: antiquewhite;
+    color: black;
+}
+
+.button{
+    background-color: darkturquoise;
+    border-radius: 5%;
+    color: green;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 8px;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: mediumturquoise;
+    color: black;
+}
+
+.link{
+    text-decoration: none;
+}
+
+
+
+
